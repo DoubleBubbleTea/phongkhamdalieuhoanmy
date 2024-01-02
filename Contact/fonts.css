@@ -1,0 +1,114 @@
+/**
+* Font SFUHelvetica
+*/
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaLight.TTF);
+    font-weight:300;
+}
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaLightOblique.TTF);
+    font-weight:300;
+    font-style: oblique;
+}
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaRegular.TTF);
+    font-weight:400
+}
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaBold.TTF);
+    font-weight:700
+}
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaBlack.TTF);
+    font-weight:900
+}
+@font-face {
+    font-family: SFUHelvetica;
+    src: url(../fonts/SFUHelveticaBlackOblique.TTF);
+    font-weight:900;
+    font-style: oblique;
+}
+
+/*SFUHelveticaCompressed*/
+@font-face {
+    font-family: SFUHelveticaCompressed;
+    src: url(../fonts/SFUHelveticaCompressed.TTF);
+}
+@font-face {
+    font-family: SFUHelveticaExtraCompressed;
+    src: url(../fonts/SFUHelveticaExtraCompressed.TTF);
+}
+@font-face {
+    font-family: SFUHelveticaUltraCompressed;
+    src: url(../fonts/SFUHelveticaUltraCompressed.TTF);
+}
+
+/*SFUHelveticaCondensed*/
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensed.TTF);
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedBlack.TTF);
+    font-weight: 900;
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedBlackOblique.TTF);
+    font-weight: 900;
+    font-style: oblique;
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedBold.TTF);
+    font-weight: 700;
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedBoldOblique.TTF);
+    font-weight: 700;
+    font-style: oblique;
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedLight.TTF);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedLightOblique.TTF);
+    font-weight: 300;
+    font-style: oblique;
+}
+@font-face {
+    font-family: SFUHelveticaCondensed;
+    src: url(../fonts/SFUHelveticaCondensedOblique.TTF);
+    font-style: oblique;
+}
+
+/*SFUHelveticaNarrow*/
+@font-face {
+    font-family: SFUHelveticaNarrow;
+    src: url(../fonts/SFUHelveticaNarrow.TTF);
+}
+@font-face {
+    font-family: SFUHelveticaNarrow;
+    src: url(../fonts/SFUHelveticaNarrowBold.TTF);
+    font-weight: 700;
+}
+@font-face {
+    font-family: UTM Alter Gothic;
+    src: url(../fonts/UTMAlterGothic.ttf);
+}
+
+
+
+
+
